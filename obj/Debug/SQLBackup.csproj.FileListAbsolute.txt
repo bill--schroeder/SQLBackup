@@ -1,0 +1,10 @@
+F:\Sharing\Bill\My Dropbox\Development\c#\SQLBackup\bin\Debug\SQLBackup.exe.config
+F:\Sharing\Bill\My Dropbox\Development\c#\SQLBackup\obj\Debug\SQLBackup.csprojResolveAssemblyReference.cache
+F:\Sharing\Bill\My Dropbox\Development\c#\SQLBackup\obj\Debug\SQLBackup.MainForm.resources
+F:\Sharing\Bill\My Dropbox\Development\c#\SQLBackup\obj\Debug\SQLBackup.Properties.Resources.resources
+F:\Sharing\Bill\My Dropbox\Development\c#\SQLBackup\obj\Debug\SQLBackup.csproj.GenerateResource.Cache
+F:\Sharing\Bill\My Dropbox\Development\c#\SQLBackup\bin\Debug\SQLBackup.exe
+F:\Sharing\Bill\My Dropbox\Development\c#\SQLBackup\bin\Debug\SQLBackup.pdb
+F:\Sharing\Bill\My Dropbox\Development\c#\SQLBackup\bin\Debug\Zealocity.pdb
+F:\Sharing\Bill\My Dropbox\Development\c#\SQLBackup\obj\Debug\SQLBackup.exe
+F:\Sharing\Bill\My Dropbox\Development\c#\SQLBackup\obj\Debug\SQLBackup.pdb

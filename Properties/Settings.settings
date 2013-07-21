@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SQLBackup.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SourceInstanceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(local)</Value>
+    </Setting>
+    <Setting Name="SourceDatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AutoRun" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SQLTimeOut" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">14400</Value>
+    </Setting>
+    <Setting Name="BackupLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="RestoreInstance" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">(local)</Value>
+    </Setting>
+    <Setting Name="RestoreDatabase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DefaultDatabasePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AutoRestore" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Status" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LastRunDateTime" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AddDateTimeStamp" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UseCompression" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EnableLogging" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="BackupType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Complete</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
